@@ -15,4 +15,4 @@ app.use(bodyParser.json());
 //Routes
 app.use("/", taskRoutes);
 
-app.listen(8000);
+app.listen(7000);
